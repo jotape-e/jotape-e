@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :satellite: I’m currently working on my PhD thesis.
+- :book: I’m currently working on my PhD thesis.
 - :computer::satellite::leaves::corn::banana: I’m currently learning data science applied to remote sensing and agricultural sciences.
 - 👯 I’m looking to collaborate on research projects.
 
