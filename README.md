@@ -1,6 +1,7 @@
 Welcome to my GitHub profile.
 
 - :computer::artificial_satellite::leaves::corn::banana: Interested in data science applied to remote sensing, agricultural sciences and climate change.
+- I'm specialized in using SAR polarimetric data in agricultural applications.
 - 👯 I’m looking to collaborate on research projects.
 
 <!--
