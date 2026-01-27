@@ -1,3 +1,6 @@
+## João Paulo da Silva, 
+**Agr. Eng., Dr. Digital Agriculture**
+
 Welcome to my GitHub profile.
 
 - :computer::artificial_satellite::leaves::corn::banana: Interested in data science applied to remote sensing, agricultural sciences and climate change.
@@ -18,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jotape-e&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jotape-e&langs_count=3&hide=javascript,go,html,css,tex)
