@@ -1,5 +1,5 @@
 ## João Paulo da Silva, 
-**Agr. Eng., Dr. Digital Agriculture**
+**Eng. Agr., Dr. Digital Agriculture**
 
 Welcome to my GitHub profile.
 
